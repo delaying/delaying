@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![delaying's GitHub stats](https://github-readme-stats.vercel.app/api?delaying=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![delaying's GitHub stats](https://github-readme-stats.vercel.app/api?username=delaying)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
