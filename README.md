@@ -2,7 +2,11 @@
 <div align="center">
 
   
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&fontAlignY=35&text=Hello%20World!&desc=Jiyeon%20Park&color=auto)
+![header](https://capsule-render.vercel.app/api?type=wave&height=250&fontAlignY=40&text=Hello%20World!&color=auto)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdelaying&count_bg=%23FF57E2&title_bg=%2341CFF9&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%A5+%F0%9F%90%A5+&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/><br/>
+
 
   ### 🎀 Front-End Tech 🎀
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -28,7 +32,6 @@
 [![delaying's GitHub stats](https://github-readme-stats.vercel.app/api?username=delaying)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  
 </div>
 
 
