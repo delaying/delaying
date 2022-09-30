@@ -2,7 +2,7 @@
 <div align="center">
 
   
-![header](https://capsule-render.vercel.app/api?type=wave&height=250&fontAlignY=40&text=Hello%20World!&color=auto)
+![header](https://capsule-render.vercel.app/api?type=wave&height=160&fontAlignY=40&color=auto)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdelaying&count_bg=%23FF57E2&title_bg=%2341CFF9&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%A5+%F0%9F%90%A5+&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/>
