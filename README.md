@@ -30,7 +30,7 @@
   
   ### [ Delaying ]
   
-   [Delaying's blog](http://delaying.github.io/)  |   [Portfolio](https://delaying.github.io/about/)   |   [Record](https://lace-stetson-a16.notion.site/Jiyeon-Park-0faec40451994062af962656145b6e5a)
+   [Blog](http://delaying.github.io/)  |   [Portfolio](https://delaying.github.io/about/)   |   [Record](https://lace-stetson-a16.notion.site/Jiyeon-Park-0faec40451994062af962656145b6e5a)
    
    
   ![snake gif](https://github.com/delaying/delaying/blob/output/github-contribution-grid-snake.svg)
