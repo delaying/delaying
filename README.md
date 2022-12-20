@@ -2,7 +2,7 @@
 
 <div  >
 
-<img  align="left"  src="https://user-images.githubusercontent.com/72879145/208708794-f4318735-caf9-48ba-9090-9464aa75067d.gif" width="37%"/>
+<img  align="left"  src="https://user-images.githubusercontent.com/72879145/208708794-f4318735-caf9-48ba-9090-9464aa75067d.gif" width="40%"/>
 </div>
 
   
