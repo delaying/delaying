@@ -30,7 +30,7 @@
   
   ### [ Delaying ]
   
-   [Blog](http://delaying.github.io/)  |   [Portfolio](https://delaying.github.io/about/)  
+   [Blog](http://delaying.github.io/)  
    
   ![snake gif](https://github.com/delaying/delaying/blob/output/github-contribution-grid-snake.svg)
   
