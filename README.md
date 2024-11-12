@@ -13,6 +13,18 @@
   
   
   <br/>
+  <br/>
+
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/delaying"
+      width="600"
+      height="300"
+    />
+  </a>
+
+  <br/>
+
 
   ![snake gif](https://github.com/delaying/delaying/blob/output/github-contribution-grid-snake.svg)
   
